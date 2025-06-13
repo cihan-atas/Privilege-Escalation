@@ -289,8 +289,7 @@ Bu teknik, SUID'li bir programın kullandığı kütüphaneyi, `LD_PRELOAD` orta
 *   **GTFOBins:** Zafiyetli Unix binary'leri için İncil.
     *   [https://gtfobins.github.io/](https://gtfobins.github.io/)
 *   **HackTricks:** Kapsamlı pentest ve privilege escalation rehberleri.
-    *   [https://book.hacktricks.xyz/linux-hardening/privilege-escalation](https://book.hacktricks.xyz/linux-hardening/privilege-escalation)
+    *   [https://book.hacktricks.xyz/linux-hardening/privilege-escalation](https://book.hacktricks.xyz/linux-hardening)
 *   **PayloadsAllTheThings:** Her türlü payload ve sömürü tekniği koleksiyonu.
     *   [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
 
-```
